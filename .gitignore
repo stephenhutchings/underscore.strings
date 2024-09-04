@@ -1,7 +1,2 @@
-node_modules
-
-*.swp
-*.swo
-.DS_Store
-
-*.log
+.npm
+npm
